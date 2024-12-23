@@ -23,9 +23,9 @@ editor: visual
 fig-cap-location: margin
 ---
 
-# The connection between Morgan Housel and Barbara Minto
+# Housel as the best student of Minto
 
-I'm a trained management consultant, and in consulting we are taught the Minto Pyramid Principle - which helps us write more effectively and persuasively. Now, despite using this Minto approach to breakdown problems and write reports, I had never come across a renowned author, in the wilderness of every day life, who religiously used the pyramid principle. Not until I came across the books and articles of Morgan Housel.
+I'm a trained management consultant, and in my profession we are taught the Minto Pyramid Principle - which helps us write more effective and persuasive stories. Now, despite using this Minto approach to breakdown problems and write reports, I had never come across a renowned author, outside of consulting circles, who religiously used the pyramid principle. Not until I came across the books and articles of Morgan Housel.
 
 # Why his writing is so compelling
 
@@ -160,3 +160,11 @@ Finish with a punchy takeaway or a rhetorical flourish that reinforces the lesso
 :::
 
 ------------------------------------------------------------------------
+
+# How Barbara inspired Morgan's style
+
+Morgan Housel's storytelling style adopts alot of Barbara Minto's **"Pyramid Principle"**, particularly when it comes to structured, clear, and engaging communication.
+
+For instance, the **S.C.Q. framework** (Situation, Complication, Question) that Minto outlines is especially aligned with how Housel begins his stories.
+
+Let’s break this down:
