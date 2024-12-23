@@ -1,0 +1,162 @@
+---
+title: <span style="color:white">The Housel + Minto Approach</span>
+subtitle: "A breakdown of the writing style I like the most"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/23/2024
+
+title-block-banner: true
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+# The connection between Morgan Housel and Barbara Minto
+
+I'm a trained management consultant, and in consulting we are taught the Minto Pyramid Principle - which helps us write more effectively and persuasively. Now, despite using this Minto approach to breakdown problems and write reports, I had never come across a renowned author, in the wilderness of every day life, who religiously used the pyramid principle. Not until I came across the books and articles of Morgan Housel.
+
+# Why his writing is so compelling
+
+Morgan Housel's writing is compelling for so many reasons, and below is a laundry list of why I love his writing style:
+
+**Simplicity and Clarity**
+
+-   Housel has a gift for explaining complex concepts in plain, accessible language. He avoids jargon and uses metaphors and analogies to make abstract ideas relatable. This makes his writing approachable for a wide audience, regardless of their background or expertise.
+
+**Anecdote-Driven**
+
+-   Stories are at the heart of Housel’s style. He frequently uses anecdotes—both personal and historical—to illustrate key ideas. These stories not only make the content memorable but also help readers connect emotionally to the concepts he’s explaining.
+
+**Human-Centered Focus**
+
+-   His writing revolves around human behavior, psychology, and decision-making. He explores how emotions, biases, and perspectives shape our actions, especially in the context of money, risk, and success. This makes his work deeply relatable and thought-provoking.
+
+**Concise Yet Reflective**
+
+-   Housel’s sentences are short and punchy, but they often carry deep meaning. He carefully crafts his words to maximize impact, leaving readers with "aha moments" after almost every paragraph.
+
+**Timelessness Over Trendiness**
+
+-   Instead of focusing on fleeting trends or niche topics, Housel emphasizes enduring principles. His insights are designed to remain relevant across generations, making his books feel timeless.
+
+**Wisdom Through Contrast**
+
+-   He frequently uses contrasting examples to highlight the nuances of a concept. For instance, he might juxtapose two people making different financial decisions to show how behavior and context influence outcomes more than formulas do.
+
+**Reflective and Introspective**
+
+-   Housel often prompts readers to reflect on their own experiences and beliefs. His writing feels like a conversation, inviting readers to think critically about their assumptions and habits.
+
+**Optimistic Yet Realistic**
+
+-   While Housel doesn’t shy away from discussing challenges, risks, and failures, his overall tone is one of optimism. He emphasizes resilience, adaptability, and the power of learning from setbacks.
+
+**Repetition with a Purpose**
+
+-   He often revisits core ideas throughout his work, reinforcing them with new examples or perspectives. This repetition helps readers internalize the key lessons and see how they apply in different contexts.
+
+**Unapologetically Personal**
+
+-   Housel isn’t afraid to weave in his own experiences and vulnerabilities. By sharing his successes and mistakes, he builds a sense of trust and authenticity with his readers.
+
+Morgan Housel’s style is a masterclass in combining storytelling with actionable wisdom. His ability to translate profound truths into simple, relatable stories is what makes his work resonate so deeply with readers.
+
+It’s like sitting down with a wise friend who not only understands the world but also wants to help you navigate it better.
+
+To better understand his style, lets walk through a concrete example:
+
+# Housel's storytelling style in action
+
+The topic we’ll explore is **the importance of patience in decision-making** - through the life of Ronald Read.
+
+Housel's style can be broken down into 6 steps:
+
+## Step 1: Start with a relatable anecdote or story
+
+Housel often opens with a vivid story that hooks the reader. The story doesn’t have to be dramatic; it just needs to resonate emotionally:
+
+::: column-body-outset
+**Example 1:**
+
+*In the 1970s, a young investor named Ronald Read worked as a janitor in a small Vermont town. His life seemed ordinary—unremarkable, even. He lived modestly, drove an old car, and never splurged on luxuries. But when Ronald passed away in 2014, he left behind an \$8 million fortune. His secret? Patience.*
+:::
+
+## Step 2: Explain the concept with simplicity
+
+Introduce the idea behind the story in plain terms. Avoid jargon and keep it concise.
+
+::: column-body-outset
+**Example 2:**
+
+*Ronald Read’s wealth wasn’t built on winning the lottery or inheriting a fortune. It was built on the power of patience. He invested small amounts of money consistently over decades, letting compound interest do the hard work. Patience, more than talent or timing, turned an ordinary janitor into an extraordinary millionaire.*
+:::
+
+## Step 3: Draw a universal insight
+
+Tie the story to a broader principle that applies to everyone. Housel excels at extracting wisdom that feels timeless and relevant.
+
+::: column-body-outset
+**Example 3:**
+
+*Patience is often underestimated because its results are invisible in the short term. It’s like planting a tree: for years, you might see little growth. But given time, those small daily increments compound into something extraordinary. Most people abandon their efforts too soon, expecting quick results in a world that rewards the long game.*
+:::
+
+## Step 4: Use a contrast
+
+Highlight the principle by comparing it to an opposing behavior. This sharpens the lesson and makes it memorable.
+
+::: column-body-outset
+**Example 4:**
+
+*Compare that to the fate of lottery winners. Research shows that many end up bankrupt within a decade, despite receiving millions overnight. Why? Because sudden wealth without patience often leads to reckless decisions. Ronald Read’s story is the opposite: slow and steady, yet enduringly successful.*
+:::
+
+## Step 5: Invite reflection
+
+Encourage the reader to reflect on their own decisions or beliefs. Housel’s writing often feels like a personal nudge toward introspection.
+
+::: column-body-outset
+**Example 5:**
+
+*How often do we chase immediate rewards, thinking they’ll solve all our problems? Whether it’s a risky investment, a rushed decision, or a shortcut to success, impatience can derail even the best intentions. What would happen if we embraced patience instead?*
+:::
+
+## Step 6: End with a memorable closing
+
+Finish with a punchy takeaway or a rhetorical flourish that reinforces the lesson.
+
+::: column-body-outset
+**Example 6:**
+
+*Patience isn’t flashy, but it works. In a world obsessed with speed, Ronald Read’s quiet fortune is a reminder: slow doesn’t just win the race—it changes your life.*
+:::
+
+## Combining all 6 steps/paragraphs into a final story
+
+::: column-body-outset
+*In the 1970s, a young investor named Ronald Read worked as a janitor in a small Vermont town. His life seemed ordinary—unremarkable, even. He lived modestly, drove an old car, and never splurged on luxuries. But when Ronald passed away in 2014, he left behind an \$8 million fortune. His secret? Patience.*
+
+*Ronald Read’s wealth wasn’t built on winning the lottery or inheriting a fortune. It was built on the power of patience. He invested small amounts of money consistently over decades, letting compound interest do the hard work. Patience, more than talent or timing, turned an ordinary janitor into an extraordinary millionaire.*
+
+*Patience is often underestimated because its results are invisible in the short term. It’s like planting a tree: for years, you might see little growth. But given time, those small daily increments compound into something extraordinary. Most people abandon their efforts too soon, expecting quick results in a world that rewards the long game.*
+
+*Compare that to the fate of lottery winners. Research shows that many end up bankrupt within a decade, despite receiving millions overnight. Why? Because sudden wealth without patience often leads to reckless decisions. Ronald Read’s story is the opposite: slow and steady, yet enduringly successful.*
+
+*How often do we chase immediate rewards, thinking they’ll solve all our problems? Whether it’s a risky investment, a rushed decision, or a shortcut to success, impatience can derail even the best intentions. What would happen if we embraced patience instead?*
+
+*Patience isn’t flashy, but it works. In a world obsessed with speed, Ronald Read’s quiet fortune is a reminder: slow doesn’t just win the race—it changes your life.*
+:::
+
+------------------------------------------------------------------------
